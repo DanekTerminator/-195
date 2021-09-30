@@ -1,0 +1,6 @@
+C:\Users\Администратор\source\repos\ClassLibraryПароли123\ClassLibraryПароли123\bin\Debug\ClassLibraryПароли123.dll
+C:\Users\Администратор\source\repos\ClassLibraryПароли123\ClassLibraryПароли123\bin\Debug\ClassLibraryПароли123.pdb
+C:\Users\Администратор\source\repos\ClassLibraryПароли123\ClassLibraryПароли123\obj\Debug\ClassLibraryПароли123.csproj.AssemblyReference.cache
+C:\Users\Администратор\source\repos\ClassLibraryПароли123\ClassLibraryПароли123\obj\Debug\ClassLibraryПароли123.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\ClassLibraryПароли123\ClassLibraryПароли123\obj\Debug\ClassLibraryПароли123.dll
+C:\Users\Администратор\source\repos\ClassLibraryПароли123\ClassLibraryПароли123\obj\Debug\ClassLibraryПароли123.pdb
